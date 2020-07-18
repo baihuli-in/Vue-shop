@@ -301,6 +301,6 @@ export default {
 }
 
 .btnAdd {
-  margin-top: 15px;
+  margin-top: 20px;
 }
 </style>
